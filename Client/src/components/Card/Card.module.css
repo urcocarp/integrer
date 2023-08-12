@@ -1,0 +1,46 @@
+.container{
+    font: 10px;
+    background-color: rgb(165, 148, 157);
+    width: fit-content;
+    height:fit-content;
+    padding: 4px; 
+    border-radius: 15px;
+    text-shadow: 5px 3px 6px rgba(143, 14, 89, 0.83);
+    /* box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); */
+    box-shadow: rgba(73, 247, 209, 0.966) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+    display:flex;
+    flex-direction: column;
+    margin: 4px;
+    font-size: small;
+    background-image: url('https://e0.pxfuel.com/wallpapers/736/505/desktop-wallpaper-rick-and-morty-reddit-cool-rick-and-morty-pc.jpg'); 
+    border: 2px solid #5f0077;
+} 
+.closeButton{
+    border: 2px solid #5f0077;
+ background-color: rgb(121, 117, 113);
+ width: fit-content;
+height: auto;
+border-radius: 15px;
+background: linear-gradient(#c44ae2, #2966b8);
+
+}
+.image{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid #5f0077;
+    margin: 2px;
+    align-content: center;
+ }
+
+ .fav{
+    border: 2px solid #5f0077;
+ background-color: rgb(121, 117, 113);
+ width: fit-content;
+height: auto;
+border-radius: 15px;
+margin:auto;
+background: linear-gradient(#c44ae2, #2966b8);
+
+ }
+  

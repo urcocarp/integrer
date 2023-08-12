@@ -1,0 +1,123 @@
+
+/* @font-face {
+    font-family:rick_and_morty;
+    src: url(get_sch/get_schwifty.ttf);} */
+
+
+.nav{
+    background-color: rgba(24, 26, 24, 0.527);
+    border-radius: 20px;
+    /* border:2px solid #776a7a; */
+    box-shadow: #776a7a;
+    width: 1330px;
+    height: fit-content;
+    justify-content:space-between;
+    margin-bottom: 2em;
+    border-bottom: 2px;
+    margin-top: 1em;
+    display: flex;
+    align-content:center ;
+    margin-right: 10px;
+    padding: 10px;
+    font-family: rick_and_morty;
+    box-shadow: #67e3ec;
+}
+
+     
+.home{
+    
+    justify-content: flex-start;
+    margin-right: 10px ;
+    /* display: flex; */
+     width:fit-content;
+     margin-left: auto;
+     background-color: #c01aa481;
+     border: 2px solid #776a7a;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family:rick_and_morty;
+  -webkit-text-fill-color: rgb(77, 4, 58);
+  -webkit-text-stroke: 0.01px #67e3ec;
+   text-shadow: 2px 1px 2px rgb(127, 255, 249)
+ 
+        
+    }   
+.boton:hover {
+   background-color: #01365a;}
+.about{
+    
+    justify-content: flex-start; 
+    margin-right: 20px;
+    /* display: flex; */
+    width:fit-content;
+    background-color:  #c01aa481;
+
+  border: 2px solid #776a7a;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family:rick_and_morty;
+  -webkit-text-fill-color: rgb(77, 4, 58);
+  -webkit-text-stroke: 0.01px #67e3ec;
+   text-shadow: 2px 1px 2px rgb(127, 255, 249)
+ 
+}
+.boton:hover {
+    background-color: #01365a;}
+
+.out{
+    justify-content: flex-start; 
+    margin-right: 20px;
+    /* display: flex; */
+    width:fit-content;
+    background-color:  #c01aa481;
+
+  border: 2px solid #776a7a;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family:rick_and_morty;
+  -webkit-text-fill-color: rgb(77, 4, 58);
+  -webkit-text-stroke: 0.01px #67e3ec;
+   text-shadow: 2px 1px 2px rgb(127, 255, 249)
+ 
+}
+.boton:hover {
+    background-color: #01365a;}
+
+.Favorites{
+    justify-content: flex-start; 
+    margin-right: 20px;
+    /* display: flex; */
+    width:fit-content;
+    background-color:  #c01aa481;
+
+  border: 2px solid #776a7a;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family:rick_and_morty;
+  -webkit-text-fill-color: rgb(77, 4, 58);
+  -webkit-text-stroke: 0.01px #67e3ec;
+   text-shadow: 2px 1px 2px rgb(127, 255, 249)
+ 
+}
+.boton:hover {
+    background-color: #01365a;}
+
+
+
+

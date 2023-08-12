@@ -1,0 +1,50 @@
+.agregar{
+     
+    justify-content: flex-start; 
+    margin-right: 20px;
+    /* display: flex; */
+    width:fit-content;
+    background-color:  #c01aa481;
+
+  border: 2px solid #776a7a;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family:rick_and_morty;
+  -webkit-text-fill-color: rgb(77, 4, 58);
+  -webkit-text-stroke: 0.01px #67e3ec;
+   text-shadow: 2px 1px 2px rgb(127, 255, 249)
+ 
+}
+.boton:hover {
+    background-color: #01365a;}
+
+
+    .imput{
+  
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 16px;
+      
+      
+      input:focus {
+        outline: none;
+        border-color: #66afe9;
+        box-shadow: 0 0 5px rgba(102, 175, 233, 0.5);
+      }
+      
+      input[type="submit"] {
+        background-color: #4CAF50;
+        color: white;
+        cursor: pointer;
+      }
+      
+      input[type="submit"]:hover {
+        background-color: #45a049;
+      }
+      
+}

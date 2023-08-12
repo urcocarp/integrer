@@ -1,0 +1,67 @@
+.Forms{
+    background-color: #101213a9;
+    /* background-image: url('https://thypix.com/wp-content/uploads/2022/09/rick-and-morty-phone-wallpaper-thypix-78-408x816.jpg'); */
+    width: 300px;
+    height: 600px;
+    border-radius: 5%;
+    justify-content: center;
+    border:2px solid rgb(107, 3, 107);
+    padding: 40px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.829);
+    font-family: rick_and_morty;
+    display: block;
+    -webkit-text-fill-color: rgb(61, 3, 46);
+    -webkit-text-stroke: 0.01px #101213;
+     text-shadow: 2px 1px 2px rgb(65, 195, 255);
+     box-shadow: 10px 10px 23px -3px rgba(12, 42, 48, 0.836);
+     -webkit-box-shadow: 10px 10px 23px -3px rgba(126, 5, 90, 0.75);
+     -moz-box-shadow: 10px 10px 23px -3px rgba(0,0,0,0.75);
+
+    
+
+
+   
+}
+
+.boton{
+    justify-content: flex-start; 
+    margin-right: 20px;
+    width:fit-content;
+    background-color:  rgb(65, 195, 255);
+
+  border: 2px solid #443547;
+  padding: 10px 20px;
+  text-align: center;
+  display: block;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family:rick_and_morty;
+  -webkit-text-fill-color: rgb(77, 4, 58);
+  -webkit-text-stroke: 0.01px #063a3d;
+   text-shadow: 2px 1px 2px rgb(29, 31, 31);
+   position: absolute;
+   left: 50%;
+   top: 80%;
+   transform: translate(-50%, -50%);
+   padding: 10px 20px;
+ 
+}
+.boton:hover {
+    background-color: rgba(160, 30, 211, 0.829)}
+
+.email{
+    
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.pass{
+    
+ display: block;
+ margin-bottom: 5px;
+ font-weight: bold;
+}
